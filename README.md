@@ -21,8 +21,8 @@ I’m a software engineer and graduate student in Computational Data Science. I�
 ### 🌐 Connect With Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/zakaylahamilton/)
-- 📝 Personal blog or website (Coming soon!)
-- ✉️ Reach out for collabs, mentorship, or a chat about women’s health in tech!
+- 📝 Personal website (Coming soon!)
+- ✉️ Reach out to network or a chat about women’s health in tech!
 
 > “Colossians 3:23-24”  
 
