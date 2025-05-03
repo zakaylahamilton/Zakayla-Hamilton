@@ -5,8 +5,8 @@ I’m a software engineer and graduate student in Computational Data Science. I�
 ### 🌱 What I'm About
 
 - 💻 Software Engineer @ Wells Fargo
-- 🎓 M.S. in Computational Data Science (in progress)
-- 🧠 Researching tech-driven solutions in women’s health
+- 🎓 M.S. in Computational Data Science @ North Carolina A&T (in progress)
+- 🧠 Researching utilizng AI and ML to improve women’s health
 - 🤝 Mentor for early-career tech professionals
 - 🧘🏾‍♀️ Wellness advocate & passionate about health equity
 - ✝️ Guided by faith in Jesus Christ in everything I do
